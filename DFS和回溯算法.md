@@ -7,7 +7,7 @@ DFS常用在树或者图结构遍历上。网格是比树结构稍复杂的结�
 - [695. 岛屿的最大面积 （Medium）](https://leetcode.cn/problems/max-area-of-island/description/)
 - [827. 最大人工岛 （Hard）](https://leetcode.cn/problems/making-a-large-island/)
 
-![网格说明](https://github.com/superman1122/leetcode/IMG/网格.png)
+![网格说明](https://github.com/superman1122/leetcode/blob/main/IMG/%E7%BD%91%E6%A0%BC.png)
 
 参考https://leetcode.cn/problems/number-of-islands/solutions/211211/dao-yu-lei-wen-ti-de-tong-yong-jie-fa-dfs-bian-li-/
 
